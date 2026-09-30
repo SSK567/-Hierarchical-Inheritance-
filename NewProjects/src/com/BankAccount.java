@@ -11,7 +11,7 @@ public class BankAccount {
     void checkApprovedCustomer() {
      
         
-        int age = 22;
+        int age = 18;
         boolean Aadhaar = true;
         boolean panCard = true;
         
